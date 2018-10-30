@@ -41,7 +41,7 @@
 
 * [Primera convocatoria](https://www.meetup.com/PyLadiesMadrid/events/247325544/): Lunes 12 de febrero de 2018.
 * [Segunda convocatoria](https://www.meetup.com/PyLadiesMadrid/events/249932679/): Miércoles 9 de mayo de 2018.
-* [Tercera convocatoria](https://www.meetup.com/PyLadiesMadrid/events/255802009/): Martes 30 de octibre de 2018.
+* [Tercera convocatoria](https://www.meetup.com/PyLadiesMadrid/events/255802009/): Martes 30 de octubre de 2018.
 
 
 ## Requisitos:
