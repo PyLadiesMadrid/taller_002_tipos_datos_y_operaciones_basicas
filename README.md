@@ -1,4 +1,4 @@
-# Taller 001 - PyLadies Madrid: "Instalación y Primeros Pasos"
+# Taller 002 - PyLadies Madrid: "Tipos de datos y operaciones básicas"
 
 <img src="./images/pyladiesmadrid_alargado.png" height="200"> 
 
